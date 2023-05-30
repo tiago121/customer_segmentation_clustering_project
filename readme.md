@@ -92,7 +92,7 @@ The best-performing model, considering the business strategy, created 8 differen
 * Average Products Purchased: 1102 products
 * Average Product Frequency: 0.03 products/day
 * Average Revenue: $323.00 USD
-* Strategy: Since this group makes large purchases, show ads for similar products to encourage more diverse purchases.
+* Strategy: Since this group makes large purchases, show ads for similar products to encourage more diverse purchases
 
 **Cluster 3:**
 * Number of customers: 13% of customers
@@ -100,7 +100,7 @@ The best-performing model, considering the business strategy, created 8 differen
 * Average Products Purchased: 506 products
 * Average Product Frequency: 0.76 products/day
 * Average Revenue: $389.00 USD
-* Strategy: Due to resource constraints, do not engage with this group at the moment and monitor their behavior.
+* Strategy: Due to resource constraints, do not engage with this group at the moment and monitor their behavior
 
 **Cluster 4:**
 * Number of customers: 12% of customers
@@ -108,7 +108,7 @@ The best-performing model, considering the business strategy, created 8 differen
 * Average Products Purchased: 254 products
 * Average Product Frequency: 1 product/day
 * Average Revenue: $341.00 USD
-* Strategy: Send discount coupons more frequently to encourage loyalty and reduce recency.
+* Strategy: Send discount coupons more frequently to encourage loyalty and reduce recency
 
 **Cluster 5:**
 * Number of customers: 12% of customers
@@ -116,7 +116,8 @@ The best-performing model, considering the business strategy, created 8 differen
 * Average Products Purchased: 501 products
 * Average Product Frequency: 0.5 products/day
 * Average Revenue: $139.00 USD
-
+* Strategy: Conduct an A/B test: Randomly divide this group into two, sending emails with higher-priced products to one group and lower-priced products to the other. The purpose of the test is to observe the effect on customer recency and average ticket change
+* 
 **Cluster 6:**
 
 * Number of customers: 6% of customers
@@ -124,7 +125,7 @@ The best-performing model, considering the business strategy, created 8 differen
 * Average Products Purchased: 389 products
 * Average Product Frequency: 0.8 products per day
 * Average Revenue: $405.00 USD
-* Strategy: Send discount coupons more frequently to encourage loyalty and reduce recency.
+* Strategy: Send discount coupons more frequently to encourage loyalty and reduce recency
 
 **Cluster 7:**
 
@@ -133,7 +134,7 @@ The best-performing model, considering the business strategy, created 8 differen
 * Average Products Purchased: 2575 products
 * Average Product Frequency: 0.04 products per day
 * Average Revenue: $583.00 USD
-* Strategy: Establish a specialized customer service channel for this group to encourage continued purchasing behavior.
+* Strategy: Establish a specialized customer service channel for this group to encourage continued purchasing behavior
 
 **Cluster8:**
 
@@ -142,7 +143,7 @@ The best-performing model, considering the business strategy, created 8 differen
 * Average Products Purchased: 230 products
 * Average Product Frequency: 0.9 products per day
 * Average Revenue: $248.00 USD
-* Strategy: Send emails with cheaper products to stimulate more frequent purchases.
+* Strategy: Send emails with cheaper products to stimulate more frequent purchases
 
 # 5. Conclusion
 
